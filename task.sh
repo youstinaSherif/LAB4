@@ -1,1 +1,2 @@
-date 
+#!/bin/bash
+date
